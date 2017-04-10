@@ -1,0 +1,6 @@
+C:\Users\phuongpham\Desktop\.NET\TypeScriptHTMLGame\TypeScriptHTMLGame\bin\TypeScriptHTMLGame.dll.config
+C:\Users\phuongpham\Desktop\.NET\TypeScriptHTMLGame\TypeScriptHTMLGame\bin\TypeScriptHTMLGame.dll
+C:\Users\phuongpham\Desktop\.NET\TypeScriptHTMLGame\TypeScriptHTMLGame\bin\TypeScriptHTMLGame.pdb
+C:\Users\phuongpham\Desktop\.NET\TypeScriptHTMLGame\TypeScriptHTMLGame\obj\Debug\TypeScriptHTMLGame.csprojResolveAssemblyReference.cache
+C:\Users\phuongpham\Desktop\.NET\TypeScriptHTMLGame\TypeScriptHTMLGame\obj\Debug\TypeScriptHTMLGame.dll
+C:\Users\phuongpham\Desktop\.NET\TypeScriptHTMLGame\TypeScriptHTMLGame\obj\Debug\TypeScriptHTMLGame.pdb

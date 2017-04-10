@@ -1,0 +1,6 @@
+C:\Users\phuongpham\Desktop\.NET\SimpleCardGameTutorial\SimpleCardGameTutorial\obj\Debug\SimpleCardGameTutorial.csprojResolveAssemblyReference.cache
+C:\Users\phuongpham\Desktop\.NET\SimpleCardGameTutorial\SimpleCardGameTutorial\bin\SimpleCardGameTutorial.dll.config
+C:\Users\phuongpham\Desktop\.NET\SimpleCardGameTutorial\SimpleCardGameTutorial\bin\SimpleCardGameTutorial.dll
+C:\Users\phuongpham\Desktop\.NET\SimpleCardGameTutorial\SimpleCardGameTutorial\bin\SimpleCardGameTutorial.pdb
+C:\Users\phuongpham\Desktop\.NET\SimpleCardGameTutorial\SimpleCardGameTutorial\obj\Debug\SimpleCardGameTutorial.dll
+C:\Users\phuongpham\Desktop\.NET\SimpleCardGameTutorial\SimpleCardGameTutorial\obj\Debug\SimpleCardGameTutorial.pdb
